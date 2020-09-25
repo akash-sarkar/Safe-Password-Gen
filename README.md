@@ -1,1 +1,1 @@
-# Safe-Password-Gen
+# Safe-Easy-to-remember-Password-Gen
